@@ -1,7 +1,7 @@
 # Museum_question_answering
-```bash
-pip install -r requirements.txt
 
-Requires espeak to be installed manually, as pip installation modules are unreliable:
+    pip install -r requirements.txt
+
+Requires espeak to be installed manually in a linux environment, as no working reliable pip installation modules could be found:
 
     !sudo apt-get install espeak
